@@ -1,0 +1,14 @@
+﻿@model WebHello.Models.VisitorModel
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Üdvözöljük!</h2>
+
+@using (Html.BeginForm("Greet", "Home", FormMethod.Post))
+{
+    <label for="name">Add meg a neved:</label><br />
+    @Html.TextBoxFor(m => m.Name)<br /><br />
+    <input type="submit" value="Küldés" />
+}

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countdown", "Countdown\Countdown.csproj", "{4F2DBA31-3C63-4AC0-8CA9-94F110A7481E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownFrameworkApp", "CountdownFrameworkApp\CountdownFrameworkApp.csproj", "{053096E2-2C25-418C-A56A-85BCA63097FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownNetCore", "CountdownNetCore\CountdownNetCore.csproj", "{918BF3C1-7D80-4C95-A7E0-C170DF26D6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedButton", "AnimatedButton\AnimatedButton.csproj", "{01D134F0-D22C-4682-984D-6BC0A3963C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonCatching", "ButtonCatching\ButtonCatching.csproj", "{2A042E45-2653-4176-93D2-8BE854F1B60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownTest", "CountdownTest\CountdownTest.csproj", "{C10672E6-8699-493C-81A6-968513F5BBDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHello", "WebHello\WebHello.csproj", "{31208E38-975D-4D07-B5C1-7A4B9D4091C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHello.Tests", "WebHello.Tests\WebHello.Tests.csproj", "{0E6780A3-A72D-428D-B946-181DB679EE4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2DBA31-3C63-4AC0-8CA9-94F110A7481E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2DBA31-3C63-4AC0-8CA9-94F110A7481E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2DBA31-3C63-4AC0-8CA9-94F110A7481E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2DBA31-3C63-4AC0-8CA9-94F110A7481E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053096E2-2C25-418C-A56A-85BCA63097FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053096E2-2C25-418C-A56A-85BCA63097FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053096E2-2C25-418C-A56A-85BCA63097FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053096E2-2C25-418C-A56A-85BCA63097FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918BF3C1-7D80-4C95-A7E0-C170DF26D6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BF3C1-7D80-4C95-A7E0-C170DF26D6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BF3C1-7D80-4C95-A7E0-C170DF26D6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BF3C1-7D80-4C95-A7E0-C170DF26D6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D134F0-D22C-4682-984D-6BC0A3963C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D134F0-D22C-4682-984D-6BC0A3963C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D134F0-D22C-4682-984D-6BC0A3963C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D134F0-D22C-4682-984D-6BC0A3963C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A042E45-2653-4176-93D2-8BE854F1B60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A042E45-2653-4176-93D2-8BE854F1B60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A042E45-2653-4176-93D2-8BE854F1B60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A042E45-2653-4176-93D2-8BE854F1B60F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10672E6-8699-493C-81A6-968513F5BBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10672E6-8699-493C-81A6-968513F5BBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10672E6-8699-493C-81A6-968513F5BBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10672E6-8699-493C-81A6-968513F5BBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31208E38-975D-4D07-B5C1-7A4B9D4091C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31208E38-975D-4D07-B5C1-7A4B9D4091C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31208E38-975D-4D07-B5C1-7A4B9D4091C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31208E38-975D-4D07-B5C1-7A4B9D4091C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6780A3-A72D-428D-B946-181DB679EE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6780A3-A72D-428D-B946-181DB679EE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6780A3-A72D-428D-B946-181DB679EE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6780A3-A72D-428D-B946-181DB679EE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
